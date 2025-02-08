@@ -1,6 +1,6 @@
 ## ChatGPT Powered Assitant Guide
 
-### Which Model
+### The Model
 
 GPT 4o
 
