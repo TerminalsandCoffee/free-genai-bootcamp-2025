@@ -24,7 +24,7 @@ The formatted output will generally contain three parts:
 
 ### Vocabulary Table
 - the table should only include nouns, verbs, adverbs, adjectives
-- the table of of vocabular should only have the following columns: Spanish, Romaji, English
+- the table of of vocabular should only have the following columns: Spanish, English
 - Do not provide particles in the vocabulary table, student needs to figure the correct particles to use
 - ensure there are no repeats eg. if miru verb is repeated twice, show it only once
 - if there is more than one version of a word, show the most common example

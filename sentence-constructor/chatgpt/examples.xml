@@ -12,15 +12,16 @@
     <assistant:output>
     Let's break down the sentence into smaller parts. Here's a possible table of vocabulary to get you started:
 
-    | Japanese | Romaji | English
-    |          | kuma	| bear |
-    |          | tobira | door |
-    |          | gomi	| garbage |
-    |          | noko	| leave behind |
+    | Spanish | English
+    |----------|------|
+    | oso	| bear |
+    | puerta | door |
+    | basura	| garbage |
+    | dejar	| leave behind |
 
     Now, let's think about the sentence structure. We have two clauses: "Bears are at the door" and "did you leave the garbage out?".
-    For the first clause, we can use the verb (aru) which means "to exist" or "to be present". We'll need to figure out the correct form of the verb to use.
-    For the second clause, we can use the verb (nokosu) which is a more polite way of saying "to leave behind". Again, we'll need to figure out the correct form of the verb to use.
+    For the first clause, we can use the verb "estar" which means "to be" (for location/state). We'll need to figure out the correct conjugation of the verb.
+    For the second clause, we can use the verb "dejar" which means "to leave". We'll need to use the correct past tense form of the verb.
 
     Here's a possible sentence structure:
 
@@ -37,7 +38,7 @@
     <user:input>
         Bears are at the door, did you leave the garbage out?
     </user:input>
-    <score>10/score>
+    <score>10</score>
     <score_reasons>
     - GOOD: Doesn't provide verbose text at the start, and shows vocabulary immediatly
     - GOOD: Shows conceptual sentence strucutre
@@ -45,13 +46,13 @@
     </score_reasons>
     <assistant:output>
     Cheatsheet:
-    | Word | Japanese | Type |
+    | Word | Spanish | Type |
     |------|----------|------|
-    | bear | 熊（くま） | Noun |
-    | door | ドア | Noun |
-    | garbage | ゴミ | Noun |
-    | to be (location) | いる | Intransitive Ichidan Verb |
-    | to leave | 出す（だす） | Transitive Godan Verb |
+    | bear | oso | Noun |
+    | door | puerta | Noun |
+    | garbage | basura | Noun |
+    | to be (location) | estar | Intransitive Verb |
+    | to leave | dejar | Transitive Verb |
 
     Sentence structure:
     [Location] [Subject] [Verb], [Object] [Verb-past]?
