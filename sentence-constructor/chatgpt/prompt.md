@@ -35,16 +35,27 @@ The formatted output will generally contain three parts:
 - remember to consider beginner level sentence structures
 
 Here is an example of simple sentence structures.
-- The bird is black. → [Subject] [Adjective].
-- The raven is in the garden. → [Location] [Subject] [Verb].
-- Put the garbage in the garden. → [Location] [Object] [Verb].
-- Did you see the raven? → [Subject] [Object] [Verb]?
-- This morning, I saw the raven. → [Time] [Subject] [Object] [Verb].
-- Are you going? → [Subject] [Verb]?
-- Did you eat the food? → [Object] [Verb]?
- -The raven is looking at the garden. → [Subject] [Verb] [Location].
-- The raven is in the garden, and it is looking at the flowers. → [Location] [Subject] [Verb], [Object] [Verb].
- -I saw the raven because it was loud. → [Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb].
+- **Where is the bathroom?** → [Location] [Subject] [Verb]?
+- **I want a coffee.** → [Subject] [Object] [Verb].
+- **Can you help me?** → [Subject] [Verb] [Object]?
+- **What time is it?** → [Time] [Verb]?
+- **I am learning Spanish.** → [Subject] [Verb] [Object].
+- **How much does this cost?** → [Object] [Verb]?
+- **I like this place.** → [Subject] [Object] [Verb].
+- **Excuse me, where is the market?** → [Location] [Subject] [Verb]?
+- **Can I pay with a credit card?** → [Subject] [Verb] [Object]?
+- **Do you speak English?** → [Subject] [Verb] [Object]?
+- **I don’t understand.** → [Subject] [Verb].
+- **Where is the nearest hotel?** → [Location] [Subject] [Verb]?
+- **I need a taxi.** → [Subject] [Object] [Verb].
+- **The food is delicious.** → [Subject] [Adjective].
+- **I am looking for the train station.** → [Subject] [Verb] [Location].
+- **What is your name?** → [Subject] [Verb] [Object]?
+- **Nice to meet you.** → [Expression].
+- **Can you recommend a good restaurant?** → [Subject] [Verb] [Object]?
+- **Where can I buy a ticket?** → [Location] [Subject] [Verb] [Object]?
+- **I have a reservation.** → [Subject] [Object] [Verb].
+
 
 ### Clues and Considerations
 - try and provide a non-nested bulleted list
